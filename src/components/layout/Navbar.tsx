@@ -31,6 +31,7 @@ import {
     IconGauge,
     IconHome2,
     IconLogout,
+    IconPlus,
     IconSettings,
     IconStack2,
     IconSwitchHorizontal,
@@ -70,6 +71,7 @@ interface Props {}
 const mockdata = [
     { icon: IconHome2, label: "Home" },
     { icon: IconStack2, label: "Recipes" },
+    { icon: IconPlus, label: "Create" },
     { icon: IconUser, label: "Profile" },
     // { icon: IconCalendarStats, label: "Releases" },
     // { icon: IconUser, label: "Account" },
